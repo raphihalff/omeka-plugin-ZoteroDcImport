@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:bib="http://purl.org/net/biblio#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:z="http://www.zotero.org/namespaces/export#">
+    <bib:Book rdf:about="#item_1">
+        <z:itemType>book</z:itemType>
+        <bib:authors><rdf:Seq><rdf:li><foaf:Person>
+            <foaf:surname>Vaynper</foaf:surname><foaf:givenName>Zishe</foaf:givenName>
+        </foaf:Person></rdf:li></rdf:Seq></bib:authors>
+        <dc:title>Tog-teglekh broyt</dc:title>
+        <dc:date>1930</dc:date>
+        <z:language>yid</z:language>
+        <z:libraryCatalog>hollis.harvard.edu</z:libraryCatalog>
+    <dc:description>original-title: טאָג-טעגלעך ברױט
+original-author: װײַנפּער, זישע
+original-script: reconstructed by detransliteration</dc:description></bib:Book>
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dc:title>In undzer literatur</dc:title>
+        <dc:date>1932</dc:date>
+        <z:language>yid</z:language>
+        <dc:description>original-title: אין אונדזער ליטעראַטור</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3">
+        <z:itemType>book</z:itemType>
+        <dc:title>The seventh million</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>eng</z:language>
+    </bib:Book>
+    <bib:Book rdf:about="#item_4">
+        <z:itemType>book</z:itemType>
+        <dc:title>Ben sefer le'efer</dc:title>
+        <z:language>heb</z:language>
+    </bib:Book>
+</rdf:RDF>

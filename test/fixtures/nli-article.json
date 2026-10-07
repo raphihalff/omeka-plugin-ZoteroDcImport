@@ -1,0 +1,16 @@
+[
+  {
+    "id": "nli-1",
+    "type": "article-journal",
+    "title": "S'iz umetik on Lutski",
+    "container-title": "Ilustrirte literarishe bleter",
+    "volume": "5",
+    "issue": "9-10",
+    "page": "4",
+    "language": "yid",
+    "author": [ { "family": "Pet", "given": "Khayim" } ],
+    "issued": { "date-parts": [ [ 1957 ] ] },
+    "note": "original-author: פּעט, חיים\noriginal-title: ס'איז אומעטיק אָן לוצקי\noriginal-container-title: אילוסטרירטע ליטעראַרישע בלעטער\noriginal-citation: 5, נומ' 9–10 (49–50), סעפּטעמבער–אָקטאָבער 1957, ז' 4",
+    "URL": "https://merhav.nli.org.il/primo-explore/fulldisplay?docid=NNL_IYP71190516460005171"
+  }
+]

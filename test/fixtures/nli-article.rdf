@@ -1,0 +1,106 @@
+<rdf:RDF
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <bib:Article rdf:about="#item_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Ilustrirte literarishe bleter (Buenos-Ayres, 1953–1960)</dc:title>
+                <prism:volume>5</prism:volume>
+                <prism:number>9-10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pet</foaf:surname>
+                        <foaf:givenName>Khayim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>S'iz umetik on Lutski</dc:title>
+        <dc:date>1957</dc:date>
+        <z:language>yid</z:language>
+        <z:libraryCatalog>National Library of Israel</z:libraryCatalog>
+        <bib:pages>4</bib:pages>
+        <dc:description>original-author: פּעט, חיים
+original-title: ס'איז אומעטיק אָן לוצקי
+original-subject: לוצקי, אַ.
+original-subject: נעקראָלאָג
+original-container-title: אילוסטרירטע ליטעראַרישע בלעטער (בוענאָס־אַיַרעס, 1953–1960)
+original-citation: 5, נומ' 9–10 (49–50), סעפּטעמבער–אָקטאָבער 1957, ז' 4
+Journal place: Buenos Aires
+Journal dates: 1953–1960
+Whole no.: 49-50
+Region: South America
+Country: Argentina
+Place: Buenos Aires
+Region: New York, United States</dc:description>
+        <dc:subject>Lutski, A.</dc:subject>
+        <dc:subject>Nekrolog</dc:subject>
+        <dc:subject>
+            <dcterms:LCC><rdf:value>IYP no. 4919</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://merhav.nli.org.il/primo-explore/fulldisplay?docid=NNL_IYP71190516460005171&amp;vid=NLI_IYP</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Scan</dc:title>
+        <z:path rdf:resource="files/2/lutski.pdf"/>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Farlag Yidish Bukh</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sutskever</foaf:surname>
+                        <foaf:givenName>Avrom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <z:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niborski</foaf:surname>
+                        <foaf:givenName>Yitskhok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:contributors>
+        <dc:title>Di festung</dc:title>
+        <dc:date>1945</dc:date>
+        <z:language>yid</z:language>
+        <dc:description>original-title: די פֿעסטונג
+original-author: סוצקעװער, אַבֿרהם</dc:description>
+    </bib:Book>
+    <rdf:Description rdf:about="#item_4">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book><dc:title>YIVO Encyclopedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:title>Singer, Israel Joshua</dc:title>
+        <z:language>eng</z:language>
+    </rdf:Description>
+</rdf:RDF>
